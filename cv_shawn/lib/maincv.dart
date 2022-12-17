@@ -35,7 +35,7 @@ class FourthRoute extends StatelessWidget {
                   backgroundImage: AssetImage('images/avatar1.png'),
                 ),
                 Text(
-                  'Kurt Z. De Vera',
+                  'Shawn Michael T. Delima',
                   style: TextStyle(
                     fontFamily: 'Orpheus',
                     fontSize: 35.0,
@@ -171,7 +171,7 @@ class FifthRoute extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    'Name: KURT ZARATE DE VERA',
+                    'Name: SHAWN MICHAEL TUMANAN DELIMA',
                     style: TextStyle(
                       color: Color.fromARGB(255, 0, 0, 0),
                       fontFamily: 'Source Sans Pro',
@@ -205,7 +205,7 @@ class FifthRoute extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    'Address: Sitio Idoldol, Nagsaing, Calasiao, Pangasinan',
+                    'Address: Sitio Bacol, Malabago, Calasiao, Pangasinan',
                     style: TextStyle(
                       color: Color.fromARGB(255, 0, 0, 0),
                       fontFamily: 'Source Sans Pro',
@@ -222,7 +222,7 @@ class FifthRoute extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    'Phone Number: +639104894343',
+                    'Phone Number: +639072502519',
                     style: TextStyle(
                       color: Color.fromARGB(255, 0, 0, 0),
                       fontFamily: 'Source Sans Pro',
@@ -239,7 +239,7 @@ class FifthRoute extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    'Email: deverapromaker@gmail.com',
+                    'Email: shawnmichael231@gmail.com',
                     style: TextStyle(
                       color: Color.fromARGB(255, 0, 0, 0),
                       fontFamily: 'Source Sans Pro',
@@ -336,7 +336,7 @@ class SixthRoute extends StatelessWidget {
                 margin: EdgeInsets.symmetric(vertical: 5.0, horizontal: 25.0),
                 child: ListTile(
                   title: Text(
-                    'Parayao National Highschool',
+                    'Calasiao Comprehensive National High School',
                     style: TextStyle(
                       color: Color.fromARGB(255, 0, 0, 0),
                       fontFamily: 'Source Sans Pro',
@@ -350,7 +350,7 @@ class SixthRoute extends StatelessWidget {
                 margin: EdgeInsets.symmetric(vertical: 5.0, horizontal: 25.0),
                 child: ListTile(
                   title: Text(
-                    'Parayao National Highschool',
+                    'Calasiao Comprehensive National High School',
                     style: TextStyle(
                       color: Color.fromARGB(255, 0, 0, 0),
                       fontFamily: 'Source Sans Pro',
@@ -380,7 +380,7 @@ class SixthRoute extends StatelessWidget {
                 margin: EdgeInsets.symmetric(vertical: 5.0, horizontal: 25.0),
                 child: ListTile(
                   title: Text(
-                    'Idoldol Elementary School',
+                    'Don German Elementary School',
                     style: TextStyle(
                       color: Color.fromARGB(255, 0, 0, 0),
                       fontFamily: 'Source Sans Pro',
